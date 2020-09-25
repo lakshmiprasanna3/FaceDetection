@@ -7,7 +7,4 @@ This is an android application that can click a picture through the camera and i
 
 
 
-It will show "No faces" if faces are not there in photo...
 
-
-![Screenshot_20200906_133903](https://user-images.githubusercontent.com/45752419/92321306-7cc6c600-f046-11ea-8f18-7eeb4a26d357.png)
