@@ -1,8 +1,9 @@
 # FaceDetection
-
 This is an android application that can click a picture through the camera and it can identify whether there are faces in the photo and then display information about these faces, such as smiling probability, etc.,
 
-![Screenshot_20200906_074509](https://user-images.githubusercontent.com/45752419/92316719-9dc2f300-f015-11ea-8554-b0a46921f953.png)
+
+![Untitled design](https://user-images.githubusercontent.com/45752419/110276179-9eeed000-7ff8-11eb-83bc-3d7abfe4184c.gif)
+
 
 
 
